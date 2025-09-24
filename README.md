@@ -1,5 +1,6 @@
-# 魂牵梦萦工具箱 #
+# 魂牵梦萦工具箱 # 
 PC_Ultimate_Tools (not professional yet) (目前还无法使用)
+声明：网络上存在着各种各样的工具箱，所以存在即合理
 
 Tools Creater By 67 & 灵光幽梦
 #鸣谢(之后在写)#
